@@ -1,0 +1,1726 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : CExcel
+ major_version : 28
+ minor_version : 0
+ type : 4
+ description : ""
+ subtype : 0
+class :
+ identifier : 0x3adbf68d2169fc84
+ internal_properties : CAAAAAgAAAB2/vstTMCJbS/hlxjFxirSqKvCUuv8YxgpWyl7S3iA
+ code_elements :
+  internal_properties : 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
+  type_code : 10
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABDNRqBDcs3xk+cD8qkbwBJI338zEiNk3vfkjOAWAWvv8FsbthD4FE9uPPzBIimbb53mmpgoHQKLPZVQHUIyLZMhfkMcw2kIADcxnpUvkpwAuNRkKvCYy6vuOClPD/Zb1xt/f+JKvwmKiyOv+Q=
+     code : |1+
+      CExcel is Class
+      	m_pautExcel is object OLE dynamic	// Pointer to active object
+      	m_nVersion is int  		// Version of Excel installed on the computer
+      	m_sCurrentFolder is string	// name of the current workbook
+      END
+      
+      CONSTANT
+      	CST_LEFT = 1
+      	CST_CENTER = 2
+      	CST_RIGHT = 3
+      END
+      
+     type : 131072
+   -
+     code : |1-
+      
+     type : 131074
+  procedures :
+   -
+     name : Constructor
+     internal_properties : CAAAAAgAAADGvUC8o5bE4ZWUCRF2bvM/ZqKsuG28Y2Ke5rAWgfTEV3ux6Ig8ShonDFX36i+CqbpXfsLShRyznm8cRly9Mwgf3fGK7Uu8dIsK59+efwyoFSPNQ/H7RMZefy0sgQUBhuwKpPDMdx5tO+ASHapQ7mnAgMdcpMWWHTf7o81mxJmbJExJWhqa8F/ktJvXoiSghMZ0vCKXRg1g/sXWaJoOUmxJHJsXmwVdWizuM8JFNSharH+su8aL/1W7+HJnaQ/jQJQ4XNuhy9yALCtGIcopqxE=
+     procedure_id : 4241254560529448078
+     type_code : 27
+     code : |1-
+      PROCEDURE Constructor(bRecycle=False)
+      // if bRecycle=True, use Excel that is already opened
+      
+      // check whether Excel is installed and retrieve its version
+      nVersion is int
+      nVersion = :nVersionOffice("Excel")
+      IF nVersion = 0 THEN
+      	EndProgram(<§$0000§>)
+      	RETURN
+      END
+      IF nVersion < 8 THEN
+      	EndProgram(<§$0001§>)
+      	RETURN	
+      END
+      
+      // version of Excel
+      :m_nVersion = nVersion
+      
+      // if Excel is not already allocated
+      IF :m_pautExcel = Null THEN
+      	// if the user wants to use Excel that is already opened
+      	IF bRecycle THEN
+      		:m_pautExcel = GetActiveObject("Excel.Application")
+      		IF :m_pautExcel = Null THEN
+      			// no Excel is already opened, allocate one 
+      			:m_pautExcel = new object OLE "Excel.Application"
+      		END
+      	ELSE
+      		// allocate a new one
+      		:m_pautExcel = new object OLE "Excel.Application"
+      	END
+      END
+      
+      // Make visible
+      :m_pautExcel>>visible=True
+     type : 589824
+   -
+     name : Destructor
+     procedure_id : 4241254559840140430
+     type_code : 28
+     code : |1+
+      PROCEDURE Destructor()
+      
+      IF :m_pautExcel<>Null THEN
+      	:Exit()
+      	Multitask(-10)
+      	
+      	// free the pointer
+      	delete :m_pautExcel
+      END
+     type : 655360
+   -
+     name : AddSheet
+     procedure_id : 4241254560110935202
+     type_code : 12
+     code : |1+
+      // Summary: Adds a worksheet to the workbook
+      // Syntax:
+      // AddSheet ([<sSheetName>])
+      //
+      // Parameters:
+      // 	sWorksheetName: Name that will be given to the new worksheet
+      // Return value:
+      // 	None
+      
+      PROCEDURE AddSheet(sSheetName="")
+      
+      WHEN EXCEPTION IN
+      	//Add a sheet to the workbook
+      	:m_pautExcel>>Sheets>>Add()
+      DO
+      	:ErrorMsg(<§$0002§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // Rename if necessary
+      IF sSheetName<>"" THEN
+      	:RenameSheet(sSheetName)
+      END
+      
+     type : 458752
+   -
+     name : AddChart
+     procedure_id : 4241254560616283328
+     type_code : 12
+     code : |1+
+      // Summary: Used to create a chart
+      // Syntax:
+      // AddChart ([<sRange> [, <sType> [, <sTitle> [, <bLegend>]]]])
+      //
+      // Parameters:
+      // 	sRange: Range of cells to select (can be empty if some cells are already selected)
+      // 	sType (default value="COLUMN"): Type of chart: COLUMN, LINE, PIE
+      // 	sTitle: Name of the chart (optional)
+      // 	bLegend (default value=0): True to display the legend (the data is retrieved in the range of cells)
+      // Return value:
+      // 	None
+      
+      PROCEDURE AddChart(sRange="", sType="COLUMN", sTitle="", bLegend=False)
+      
+      
+      IF sRange<>"" THEN
+      	// Select the range of cells
+      	:SelectCells(sRange)
+      END
+      
+      WHEN EXCEPTION IN
+      	// add a chart
+      	:m_pautExcel>>Charts>>Add()
+      	
+      	// histogram type
+      	:m_pautExcel>>ActiveChart>>ChartType = :nChartType(sType)
+      	
+      DO
+      	:ErrorMsg(<§$0003§>, ExceptionInfo())
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN	
+      	// chart in new sheet (1st parameter: xlLocationAsObject = 2)
+      	:m_pautExcel>>ActiveChart>>Location(2, :m_pautExcel>>ActiveSheet>>Name) 
+      DO
+      	// Non-fatal error
+      END
+      
+      WHEN EXCEPTION IN	
+      	// if a title is specified
+      	IF sTitle<>"" THEN
+      		:m_pautExcel>>ActiveChart>>HasTitle = True
+      		:m_pautExcel>>ActiveChart>>ChartTitle>>Characters>>Text = sTitle
+      	ELSE
+      		:m_pautExcel>>ActiveChart>>HasTitle = False
+      	END
+      	
+      	// no legend
+      	IF bLegend THEN
+      		:m_pautExcel>>ActiveChart>>HasLegend = True
+      	ELSE
+      		:m_pautExcel>>ActiveChart>>HasLegend = False
+      	END
+      
+      DO
+      	:ErrorMsg(<§$0003§>, ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Align
+     procedure_id : 4241254572736710861
+     type_code : 12
+     code : |1-
+      // Summary: Applies an horizontal alignment to the selected cell or to a range of cells
+      // Syntax:
+      //Align (<nAlignment> [, <sRange>])
+      //
+      // Parameters:
+      //	nAlignment: Requested alignment 
+      //	sRange (default value=""): Range of cells to select (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE Align(nAlignment, sRange="")
+      
+      // select the requested range
+      IF sRange<>"" THEN
+      	:SelectCells(sRange)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0004§>)
+      	RETURN
+      END
+      
+      nAlignConstant is int 
+      SWITCH nAlignment
+      	CASE CST_LEFT
+      		nAlignConstant = -4131 //xlLeft
+      	CASE CST_CENTER
+      		nAlignConstant = -4108 //xlCenter
+      	CASE CST_RIGHT
+      		nAlignConstant = -4152 //xlRight
+      	OTHER CASE 
+      		nAlignConstant = -4131 //xlLeft
+      END					
+      	
+      WHEN EXCEPTION IN 
+      	// perform the requested alignment	
+      	:m_pautExcel>>Selection>>CadrageHorizontal = nAlignConstant	
+      DO
+      	:ErrorMsg(<§$0005§>, ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : Paste
+     procedure_id : 4241254572618549523
+     type_code : 12
+     code : |1+
+      // Summary: Paste in a cell or in a group of cells
+      // Syntax:
+      // Paste ([<sCell>])
+      //
+      // Parameters:
+      // 	sCell: Cell at the top left of the destination area (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE Paste(sCell="")
+      
+      // select the cell
+      IF sCell<>"" THEN
+      	:SelectCells(sCell)
+      END
+      
+      WHEN EXCEPTION IN 
+      	// paste in zone
+      	:m_pautExcel>>ActiveSheet>>Paste()
+      DO
+      		RETURN
+      END
+      
+      
+     type : 458752
+   -
+     name : Copy
+     procedure_id : 4241254573159549323
+     type_code : 12
+     code : |1-
+      // Summary: Copy a cell or a group of cells
+      // Syntax:
+      // Copy ([<sRange>])
+      //
+      // Parameters:
+      // 	sRange: Zone to copy (optional). If it is not specified, if will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE Copy(sRange="")
+      
+      // select the range of cells
+      IF sRange<>"" THEN
+      	:SelectCells(sRange)
+      END
+      
+      WHEN EXCEPTION IN
+      	// copy the area
+      	:m_pautExcel>>Selection>>Copy()
+      DO
+      	RETURN
+      END
+     type : 458752
+   -
+     name : Color
+     procedure_id : 4241254573865961897
+     type_code : 12
+     code : |1+
+      // Summary: Applies a text color and/or a background color to a cell or to a group of cells
+      // Syntax:
+      //Color ([<sTextColor> [, <sBckgrdColor> [, <sRange>]]])
+      //
+      // Parameters:
+      //	sTextColor ( default value=""): Color for the text (optional): NONE, BLACK, RED, GREEN, BLUE, YELLOW
+      //	sBackgroundeColor (default value=""): Color for the cell background (optional): NONE, BLACK, RED, GREEN, BLUE, YELLOW
+      //	sRange (default value=""): Range of cells to select (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE Color(nTextColor = -1, nBrushColor = -1, sRange="")
+      
+      // Select the cell
+      IF sRange<>"" THEN
+      	:SelectCells(sRange)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0004§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// font color
+      	IF nTextColor<>-1 THEN
+      		:m_pautExcel>>Selection>>Font>>Color = nTextColor
+      	END
+      	
+      	// background color
+      	IF nBrushColor<> -1 THEN
+      		:m_pautExcel>>Selection>>Interior>>Color = nBrushColor
+      	END
+      	
+      	
+      DO
+      	:ErrorMsg(<§$0006§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Cut
+     procedure_id : 4241254574345685467
+     type_code : 12
+     code : |1+
+      // Summary: Performs a "Cut" on a cell or on a group of cells
+      // Syntax:
+      // Cut ([<sRange>])
+      //
+      // Parameters:
+      // 	sRange: Zone to copy (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE Cut(sRange="")
+      
+      // select the range of cells
+      IF sRange<>"" THEN
+      	:SelectCells(sRange)
+      END
+      
+      WHEN EXCEPTION IN 
+      	// cut from the area
+      	:m_pautExcel>>Selection>>Cut()
+      DO
+      	RETURN
+      END
+     type : 458752
+   -
+     name : MoveSheet
+     procedure_id : 4241254573929400825
+     type_code : 12
+     code : |1-
+      // Summary: Moves a given sheet to the requested position
+      // Syntax:
+      // MoveSheet (<sSheet>, <nPosition>)
+      //
+      // Parameters:
+      // 	sSheet: Name of the sheet to move
+      // 	nPosition: Destination position
+      // Return value:
+      // 	None
+      
+      PROCEDURE MoveSheet(sSheet, nPosition)
+      
+      WHEN EXCEPTION IN
+      	// move the requested sheet after the <nPosition> tab
+      	:m_pautExcel>>Sheets(sSheet)>>Move(:m_pautExcel>>Sheets(nPosition))
+      DO
+      	:ErrorMsg(<§$0007§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : WriteValue
+     internal_properties : CAAAAAgAAABvKH9jLwoUS2cCGO6p8mh2gScLuM67dsZGg4Iv5t2eqmtZ0jSBeY5ymaQHTLPimHVvjyCntFZtegsHJKAc0WXhKRepnskSIo8+XErndvuxTonTjRmre53rm+oC9unGaiEdF0ADhTJz
+     procedure_id : 4241254572494359063
+     type_code : 12
+     code : |1-
+      // Summary: Used to write a value into a cell
+      // Syntax:
+      // WriteValue (<sCell>, <sValue>)
+      //
+      // Parameters:
+      // 	sCell: Cell into which the write operation will be performed
+      // 	sValue: Value to write
+      // Return value:
+      // 	None
+      
+      PROCEDURE WriteValue(sCell, sValue)
+      
+      
+      // to avoid an error in Excel
+      WHEN EXCEPTION IN
+      	// Write a value into the cell passed in parameter
+      	:m_pautExcel>>Range(sCell)>>Value = sValue
+      DO
+      	:ErrorMsg(<§$0008§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : Save
+     internal_properties : CAAAAAgAAACDU+wd79VgohPNYnkxR0IfqCsy74aY1iV8RnyaVvRN3ubaN33bUpwhHkjmLbpHtDvuY2J5VrC92qK39ffayHCPEiI5VeVo3rKxjFd6DPQ4qkzQ01SGrGdp2jmWFbuDK/LXsn4vtLnRw8pBdx3yzSmz6Kcdv4dpfE9L5w==
+     procedure_id : 4241254574033340971
+     type_code : 12
+     code : |1+
+      // Summary: Saves the current workbook
+      // Syntax:
+      // Save ([<sWorkbookName>])
+      //
+      // Parameters:
+      // 	sWorkbookName: Requested name for the workbook (optional)
+      // Return value:
+      // 	None
+      
+      PROCEDURE Save(sWorkbookName="")
+      
+      // if there is no current document
+      IF (:m_sCurrentFolder~="" AND sWorkbookName="") THEN
+      	:SaveAs()
+      ELSE
+      	WHEN EXCEPTION IN
+      		// save the document
+      		IF sWorkbookName<>"" THEN
+      			// 2nd parameter xlNormal = -4143 (standard Excel format)
+      			:m_pautExcel>>ActiveWorkbook>>SaveAs(sWorkbookName,-4143)
+      			:m_sCurrentFolder=sWorkbookName
+      		ELSE
+      			// 2nd parameter xlNormal = -4143 (standard Excel format)
+      			:m_pautExcel>>ActiveWorkbook>>SaveAs(:m_sCurrentFolder,-4143) 
+      		END
+      	DO
+      		// If the user has not exited the current input
+      		IF StringCount(ExceptionInfo(), "80010001")>0 THEN
+      			Info(<§$0009§>)
+      		ELSE
+      			:ErrorMsg(<§$000a§>,ExceptionInfo())
+      		END
+      		RETURN
+      	END
+      END
+      
+     type : 458752
+   -
+     name : SaveAs
+     internal_properties : CAAAAAgAAAAVqXaHyiYE3kfxrt1dG46DzGceS/oAp5hY1gT2ftRFZnparxHjMuwV8vg2UXKPHDNC42olVqitzrafbZuyWtZ1eJSv51vi1IB3/n2MEv5W6GqS4R48Jt3/EPPUR+k9EfjFLM1TjIGhGxoxBw3ixeGTQCfFj4rzFunRfQ==
+     procedure_id : 4241254572588141209
+     type_code : 12
+     code : |1+
+      // Summary: Save, with selector
+      // Syntax:
+      // SaveAs ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE SaveAs()
+      
+      sWorkbookName is string=""
+      
+      // Select or create an Excel file
+      sWorkbookName=fSelect("","",<§$000b§>,...
+      						<§$000c§>+TAB+"*.XLS","XLS",...
+      						fselCreate+fselExist)
+      
+      // No selected file
+      IF sWorkbookName="" THEN RETURN
+      
+      // Save the document
+      :Save(sWorkbookName)
+      
+     type : 458752
+   -
+     name : CloseWorkbook
+     internal_properties : CAAAAAgAAABvKH9jLwoUu4cimO6pcsiWoacrOM57VoYmo0JvJh3+yksZcjSBea6yeYRHjDNieNUPD8B3xAY9Knu3VJAsQdWxWSeZrhnC8j/ujDqXRmvhXrljPem7q+2bS1ry5rl2GiEdF0ADhTJz
+     procedure_id : 4241254573124225739
+     type_code : 12
+     code : |1+
+      // Summary: Closes the active document
+      // Syntax:
+      // CloseWorkbook ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE CloseWorkbook()
+      
+      // to avoid an error in Excel
+      WHEN EXCEPTION IN
+      	// close the active workbook
+      	:m_pautExcel>>ActiveWorkbook>>Close(False)
+      	
+      	// there is no current workbook anymore
+      	:m_sCurrentFolder=""
+      DO
+      	:ErrorMsg(<§$000d§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Format
+     internal_properties : CAAAAAgAAABNP2I9N/J5EC5YzNUYMH5vO7Hi5d25mDHHvLa4eH2bezoT+MC9WN0UKdKXVniQrOu74H1RAQiK0XYPZsusb5w4wp5EWEp6iQALNsZAzv3SmU4Ixv2G+VByNmZssXt2kWrRhyFe6g==
+     procedure_id : 4241254577578380009
+     type_code : 12
+     code : |1-
+      // Summary: Used to apply a cell format to a cell or to a group of cells
+      // Syntax:
+      // Format (<sCellFormat> [, <sRange>])
+      //
+      // Parameters:
+      // 	sCellFormat: Format to apply: NUMBER, DATE, TIME, currency, PERCENTAGE
+      // 	sRange: Range of cells to select (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE Format(sCellFormat, sRange="")
+      
+      // select the range of cells
+      IF sRange<>"" THEN
+      	:SelectCells(sRange)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	// there is no current workbook anymore
+      	:m_sCurrentFolder=""
+      	Info(<§$0004§>)
+      	RETURN
+      END
+      
+      sFormat is string
+      SWITCH Upper(sCellFormat)
+      	CASE "NUMBER"
+      		sFormat = "0,00"
+      	CASE "DATE"
+      		sFormat = "d mmmm yyyy"
+      	CASE "TIME"
+      		sFormat = "h:mm:ss"
+      	CASE "CURRENCY"
+      		sFormat = "#,##00 €"
+      	CASE "PERCENTAGE"
+      		sFormat = "0,00%"
+      	OTHER CASE 
+      		sFormat = "@"
+      END
+      
+      WHEN EXCEPTION IN
+      	// change into the requested format
+      	:m_pautExcel>>Selection>>NumberFormat = sFormat
+      DO
+      	:ErrorMsg(<§$000e§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : MergeCells
+     procedure_id : 4241254578143497018
+     type_code : 12
+     code : |1+
+      // Summary: Merges the selected cells
+      // Syntax:
+      // MergeCells ([<sRange>])
+      //
+      // Parameters:
+      // 	sRange: Range of cells to merge (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE MergeCells(sRange="")
+      
+      IF sRange<>"" THEN
+      	// select the range of cells
+      	:SelectCells(sRange)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0004§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// Merges the selected cells horizontally or vertically
+      	:m_pautExcel>>Selection>>Merge()
+      DO
+      	:ErrorMsg(<§$000f§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Weight
+     procedure_id : 4241254576833891160
+     type_code : 12
+     code : |1+
+      // Summary: Defines the font parameters for the current selection
+      // Syntax:
+      // Weight ([<nBold> [, <nItalic> [, <nUnderline>]]])
+      //
+      // Parameters:
+      // 	nBold: The weight: "" -> no action, -1 -> switches from a status to the other one, 0 -> sets the status to False, 1 -> sets the status to True
+      // 	nItalic: The italic: "" -> no action, -1 -> switches from a status to the other one, 0 -> sets the status to False, 1 -> sets the status to True
+      // 	nUnderline: The underline: "" -> no action, -1 -> switches from a status to the other one, 0 -> sets the status to False, 1 -> sets the status to True
+      // Return value:
+      // 	None
+      
+      PROCEDURE Weight(nBold="", nItalic="", nUnderline="")
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0004§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// bold
+      	SWITCH nBold
+      	    CASE 1
+      			:m_pautExcel>>Selection>>Font>>Bold = True
+      		CASE 0
+      			:m_pautExcel>>Selection>>Font>>Bold = False
+      		CASE -1
+      			// we switch
+      			IF :m_pautExcel>>Selection>>Font>>Bold = True THEN
+      				:m_pautExcel>>Selection>>Font>>Bold = False
+      			ELSE
+      				:m_pautExcel>>Selection>>Font>>Bold = True
+      			END			
+      	END
+      	
+      	// Italic
+      	SWITCH nItalic
+      	    CASE 1
+      			:m_pautExcel>>Selection>>Font>>Italic = True
+      		CASE 0
+      			:m_pautExcel>>Selection>>Font>>Italic = False
+      		CASE -1
+      			// we switch
+      			IF :m_pautExcel>>Selection>>Font>>Italic = True THEN
+      				:m_pautExcel>>Selection>>Font>>Italic = False
+      			ELSE
+      				:m_pautExcel>>Selection>>Font>>Italic = True
+      			END			
+      	END
+      	
+      	// Underline
+      	SWITCH nUnderline
+      	    CASE 1
+      			:m_pautExcel>>Selection>>Font>>Underline = 2 // xlUnderlineStyleSingle
+      		CASE 0
+      			:m_pautExcel>>Selection>>Font>>Underline = 1 // xlUnderlineStyleNone
+      		CASE -1
+      			// we switch
+      			IF :m_pautExcel>>Selection>>Font>>Underline = 2 THEN
+      				:m_pautExcel>>Selection>>Font>>Underline = 1 // xlUnderlineStyleNone
+      			ELSE
+      				:m_pautExcel>>Selection>>Font>>Underline = 2 // xlUnderlineStyleSingle
+      			END			
+      	END
+      
+      DO
+      	:ErrorMsg(<§$0010§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : AutoHeight
+     procedure_id : 4241254578727619556
+     type_code : 12
+     code : |1-
+      // Summary: Adjusts the height of the row
+      // Syntax:
+      // AutoHeight ([<nRow>])
+      //
+      // Parameters:
+      // 	nRow: Row to adjust (optional). If it is not specified, it is the current selection.
+      // Return value:
+      // 	None
+      
+      PROCEDURE AutoHeight(nRow="")
+      
+      IF nRow<>"" THEN
+      	// select the line passed in parameter
+      	:SelectCells(nRow)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0011§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN 
+      	// Automatically resize the rows
+      	:m_pautExcel>>Selection>>Rows>>AutoFit()
+      DO
+      	:ErrorMsg(<§$0012§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : RowHeight
+     procedure_id : 4241254578563517452
+     type_code : 12
+     code : |1+
+      // Summary: Changes the height of the row
+      // Syntax:
+      // RowHeight (<nSize> [, <nRow>])
+      //
+      // Parameters:
+      // 	nSize: Requested height
+      // 	nRow: Row whose height must be changed (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE RowHeight(nSize, nRow="")
+      
+      
+      IF nRow<>"" THEN
+      	:SelectCells(nRow)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0004§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// resize the row passed in parameter
+      	:m_pautExcel>>Selection>>RowHeight = nSize
+      DO
+      	:ErrorMsg(<§$0012§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : Print
+     internal_properties : CAAAAAgAAACTvPPnqDacV/Og/p6fanIi07ETqijbsqYewcBjEPnQKs17cg6zYRq22RLRrNnCMhGV5QhaHy9CT6xyX8210kB8mgKsAWyvw+zb04mwY3TUGTpmOFQGeL7oBIWlS96ncYgC7ryHAb4H
+     procedure_id : 4241254578227973162
+     type_code : 12
+     code : |1+
+      // Summary: Prints the active document
+      // Syntax:
+      // Print ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Print()
+      
+      WHEN EXCEPTION IN
+      	// Call the printout feature of Excel
+      	:m_pautExcel>>ActiveWindow>>SelectedSheets>>PrintOut(1)
+      DO
+      	:ErrorMsg(<§$0013§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : InsertAColumn
+     procedure_id : 4241254578571643966
+     type_code : 12
+     code : |1+
+      // Summary: Insert a column
+      // Syntax:
+      // InsertAColumn ([<sColumn>])
+      //
+      // Parameters:
+      // 	sColumn: Column to select before inserting it (optional). If it is not specified, it is the selected column.
+      // Return value:
+      // 	None
+      
+      PROCEDURE InsertAColumn(sColumn="")
+      
+      IF sColumn<>"" THEN
+      	// Select the column
+      	:SelectCells(sColumn)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0014§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// Insert the column
+      	:m_pautExcel>>Selection>>Insert(-4161) // xlToRight
+      DO
+      	:ErrorMsg(<§$0015§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : InsertARow
+     procedure_id : 4241254577158491228
+     type_code : 12
+     code : |1+
+      // Summary: Inserting a row
+      // Syntax:
+      // InsertARow ([<sRow>])
+      //
+      // Parameters:
+      // 	sRow: Row to select before inserting it (optional). If it is not specified, it is the selected row.
+      // Return value:
+      // 	None
+      
+      PROCEDURE InsertARow(sRow="")
+      
+      
+      IF sRow<>"" THEN
+      	// select the row
+      	:SelectCells(sRow)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0011§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// insert the line
+      	:m_pautExcel>>Selection>>Insert(-4121) // xlDown
+      DO
+      	:ErrorMsg(<§$0016§>,ExceptionInfo())	
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : AutoWidth
+     procedure_id : 4241254577845701754
+     type_code : 12
+     code : |1+
+      // Summary: Adjusts the width of the column
+      // Syntax:
+      // AutoWidth ([<sColumn>])
+      //
+      // Parameters:
+      // 	sColumn: Column to select (optional). If it is not specified, it is the selected column.
+      // Return value:
+      // 	None
+      
+      PROCEDURE AutoWidth(sColumn="")
+      
+      IF sColumn<>"" THEN
+      	// select the line passed in parameter
+      	:SelectCells(sColumn)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0014§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// Automatically resize the columns
+      	:m_pautExcel>>Selection>>Columns>>AutoFit()
+      DO
+      	:ErrorMsg(<§$0017§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : ColumnWidth
+     procedure_id : 4241254577988373666
+     type_code : 12
+     code : |1+
+      // Summary: Changes the width of the column
+      // Syntax:
+      // ColumnWidth (<nWidth> [, <sColumn>])
+      //
+      // Parameters:
+      // 	nWidth: Requested width
+      // 	sColumn: Column whose width must be changed (optional). If it is not specified, it will be the current selection
+      // Return value:
+      // 	None
+      
+      PROCEDURE ColumnWidth(nWidth, sColumn="")
+      
+      
+      IF sColumn<>"" THEN
+      	:SelectCells(sColumn)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0014§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// resize the column
+      	:m_pautExcel>>Selection>>ColumnWidth = nWidth
+      DO
+      	:ErrorMsg(<§$0017§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : HideColumn
+     procedure_id : 4241254578051484864
+     type_code : 12
+     code : |1+
+      // Summary: Hides a column or makes a column visible
+      // Syntax:
+      // HideColumn ([<sColumn> [, <bStatus>]])
+      //
+      // Parameters:
+      // 	sColumn: Column to hide or to be made visible (optional). If it is not specified, it is the current selection.
+      // 	bStatus (default value=1): Requested status (hide or make visible): True to hide, False to make visible
+      // Return value:
+      // 	None
+      
+      PROCEDURE HideColumn(sColumn="", bStatus=True)
+      
+      IF sColumn<>"" THEN
+      	// select the requested column
+      	:SelectCells(sColumn)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0014§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// change its status
+      	IF bStatus THEN
+      		:m_pautExcel>>Selection>>EntireColumn>>Hidden = True
+      	ELSE
+      		:m_pautExcel>>Selection>>EntireColumn>>Hidden = False
+      	END
+      DO
+      	:ErrorMsg(<§$0018§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : HideRow
+     procedure_id : 4241254577624976626
+     type_code : 12
+     code : |1+
+      // Summary: Hides a row or makes a row visible
+      // Syntax:
+      // HideRow ([<sRow> [, <bStatus>]])
+      //
+      // Parameters:
+      // 	sRow: Row to hide or to be made visible (optional). If it is not specified, it is the current selection.
+      // 	bStatus (default value=1): Requested status (hide or make visible): True to hide, False to make visible
+      // Return value:
+      // 	None
+      
+      PROCEDURE HideRow(sRow="", bStatus=True)
+      
+      
+      IF sRow<>"" THEN
+      	// select the requested column
+      	:SelectCells(sRow)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0011§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// change its status
+      	IF bStatus THEN
+      		:m_pautExcel>>Selection>>EntireRow>>Hidden = True
+      	ELSE
+      		:m_pautExcel>>Selection>>EntireRow>>Hidden = False
+      	END
+      DO
+      	:ErrorMsg(<§$0019§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : NewDoc
+     procedure_id : 4241254578629512534
+     type_code : 12
+     code : |1+
+      // Summary: Creates a new document
+      // Syntax:
+      // NewDoc ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE NewDoc()
+      
+      WHEN EXCEPTION IN
+      	//Add a workbook
+      	:m_pautExcel>>Workbooks>>Add()
+      DO
+      	:ErrorMsg(<§$001a§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // no current workbook
+      :m_sCurrentFolder=""
+     type : 458752
+   -
+     name : nChartType
+     internal_properties : CAAAAAgAAAATPHNnKja0nwd8dv7LUoqST8U3MkQj8l5CHXBjJBlA+vk/9lYnmbLG3f45pOUCepHJ6XzEaVms9QYQ/V/zbMKOtBiqmwaJ7drloQ8qgbZuk0ycxt7QGiBOvstjxQwBs2IEbDwHgT6H
+     procedure_id : 4241254578735877482
+     type_code : 12
+     code : |1+
+      // Summary: Returns the constant corresponding to the requested type of chart
+      // Syntax:
+      // [ <Result> = ] nChartType (<sType>)
+      //
+      // Parameters:
+      // 	sType: type of chart whose constant is requested
+      // Return value:
+      // 	integer: Excel constant corresponding to a type of chart
+      
+      PROCEDURE nChartType(sType)
+      
+      
+      nChartConst is int
+      
+      SWITCH sType
+      	CASE "COLUMN"
+      		nChartConst = 51 // xlColumnClustered		
+      	CASE "LINE"
+      		nChartConst = 65 // xlLineMarkers
+      	CASE "PIE"
+      		nChartConst = 5 // xlPie
+      END
+      
+      RESULT nChartConst
+      
+     type : 458752
+   -
+     name : nVersionOffice
+     internal_properties : CAAAAAgAAAA9OAIWVoQSTmaUXHo6uQpVhngK8WQsgHMHuaklLZ6h+iLRCrbk50GTsWNwvntJVCs4/mQqeKh5IsxmfDCOBP7C8c8DBuVd+nQSVTuNqlKwsZ9D6UtSqwnVf4iwcrun8ZkKz8imdfh1oaF/yrftI727ROH/c0BzpXwU
+     procedure_id : 4241254577499999634
+     type_code : 12
+     code : |1+
+      // Summary: Checks the presence of an Office software (Word, Excel ...) and finds it later version
+      // Syntax:
+      // [ <Result> = ] nOfficeVersion (<sProgram>)
+      //
+      // Parameters:
+      // 	sProgram: <specify the role of sProgram>
+      // Return value:
+      // 	integer: 0 if the software is not found, its version number if it is found
+      
+      PROCEDURE nVersionOffice(sProgram)
+      
+      sKey, sSubKey are strings
+      nVersion is int = 0
+      
+      // check whether Office is installed
+      sKey = RegistryFirstSubKey("HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\")
+      
+      // if Office is not installed on the computer, then Word cannot be found either
+      IF sKey~="" THEN RESULT 0
+      
+      // if Office is installed on the computer, check the presence of the program
+      WHILE sKey<>""
+      	// First sub-key of the program
+      	sSubKey = RegistryFirstSubKey(sKey+"\"+sProgram+"\")
+      	// if the program is found, retrieve its version
+      	IF sSubKey<>"" THEN
+      		// keep the most recent version only
+      		nVersion = Max(Val(ExtractString(sKey,1,"\",FromEnd)),nVersion)		
+      	END
+      	// Next key
+      	sKey = RegistryNextKey(sKey)
+      END
+      
+      RESULT nVersion
+      
+     type : 458752
+   -
+     name : OpenWorkbook
+     internal_properties : CAAAAAgAAAAYrE7ZUSixr9JeMN9wi85FBN3tcPw8fzXCeaUrTBu62cWRxLlZw12TH0xELZO7VPsna3Aabinsgn+wfUG9ZglCX3bE3fPma/7g5w6n8G6YTIu3Zd2N2z/oHH6T8/9zep/v/dyQRS0GDQ6TfevUnpzOUWPeZZZYF88yO92dlM+VNNHlg6301tFQ
+     procedure_id : 4241254578823106039
+     type_code : 12
+     code : |1+
+      // Summary: Opens an Excel workbook
+      // Syntax:
+      // OpenWorkbook ([<sWorkbook>])
+      //
+      // Parameters:
+      // 	sWorkbook: Workbook to open (optional). If it is not specified, a picker is opened
+      // Return value:
+      // 	None
+      
+      PROCEDURE OpenWorkbook(sWorkbook="")
+      
+      IF sWorkbook="" THEN
+      	// Select or create a Word file
+      	sWorkbook=fSelect("","",<§$001b§>,...
+      							<§$000c§>+TAB+"*.XLS","XLS",...
+      							fselOpen)
+      
+      	// No selected file
+      	IF sWorkbook="" THEN RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// open the requested workbook
+      	:m_pautExcel>>Workbooks>>Open(sWorkbook)
+      DO
+      	:ErrorMsg(<§$001c§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // this document becomes the current document
+      :m_sCurrentFolder = sWorkbook
+      
+     type : 458752
+   -
+     name : Font
+     procedure_id : 4241254577010839091
+     type_code : 12
+     code : |1+
+      // Summary: Modifies the font
+      // Syntax:
+      //Font ([<sRange> [, <sFont> [, <nSize> [, <bBold> [, <bItalic> [, <bUnderline> [, <sTextColor> [, <sBckgrdColor>]]]]]]]])
+      //
+      // Parameters:
+      //	sRange (default value=""): range of cells whose font must be modified (optional). If it is not specified, it will be the current selection
+      //	sFont (default value=""): Requested font (optional)
+      //	nSize (default value=0): Requested size for the font (optional)
+      //	bBold (default value=""): Defines the weight of the font (optional)
+      //	bItalic (default value=""): Defines the italic of the font (optional)
+      //	bUnderline (default value=""): Defines the underline of the font (optional)
+      //	sTextColor (default value=""): Color of the text (optional)
+      //	sBackgroundColor (default value=""): Background color (optional)
+      // Return value:
+      // 	None
+      
+      PROCEDURE Font(sRange="", sFont="", nSize=0 ,bBold="", bItalic="", bUnderline="", nTextColor=-1, nBrushColor=-1)
+      
+      
+      IF sRange<>"" THEN
+      	// select the requested range of cells
+      	:SelectCells(sRange)
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0004§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// Requested font
+      	IF sFont<>"" THEN
+      		:m_pautExcel>>Selection>>Font>>Name = sFont
+      	END
+      	
+      	// Size of the requested font
+      	IF nSize>0 THEN
+      		:m_pautExcel>>Selection>>Font>>Size = nSize
+      	END
+      DO
+      	:ErrorMsg(<§$001d§>,ExceptionInfo())
+      	RETURN
+      END
+      
+      // weight
+      :Weight(bBold, bItalic, bUnderline)
+      
+      
+      
+      // background and text colors
+      :Color(nTextColor, nBrushColor, sRange)
+      
+     type : 458752
+   -
+     name : Exit
+     internal_properties : CAAAAAgAAADNIwf5Dh4eB04PUHFooDK8pu/FgTRZNlH2GnqVOLqJru5e7RPykFF89e/GUtTPNYCLh5L6lcU/Dq8TbmlYyxeuBRNC/m5KBbH/YUeV8mKZl3x7HjNwL5mj/VY66SljpRykQbmG56mYcqu7VmleEnvPrD/WuXI7FWaNeasCzUvwVipZYi9i6osP5Q==
+     procedure_id : 4241254577007431299
+     type_code : 12
+     code : |1+
+      // Summary: Exist Excel
+      // Syntax:
+      // Exit ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Exit()
+      
+      // to avoid an error in Excel
+      WHEN EXCEPTION IN
+      	// exit from Excel
+      	:m_pautExcel>>Quit()
+      DO
+      	:ErrorMsg(<§$001e§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : RenameSheet
+     internal_properties : CAAAAAgAAADrqpyH+347pC5uvoWA4lyVx3Mi702VOvFzJuwEJP956SJ5bNZ9BEew0VgJNqDKrnXHEhr8Ku3lqNGaNTLhPAlV4auR25svtDt+CQU/47Kn9g3JXwSTit+BwTF7WMgrGqPQVKz4TA==
+     procedure_id : 4241254578434739863
+     type_code : 12
+     code : |1+
+      // Summary: Renames an Excel worksheet
+      // Syntax:
+      // RenameSheet (<sNewName> [, <sOldName>])
+      //
+      // Parameters:
+      // 	sNewName: New name of the worksheet
+      // 	sFormerName: Former name of the worksheet (optional -> current worksheet)
+      // Return value:
+      // 	None
+      
+      PROCEDURE RenameSheet(sNewName, sOldName="")
+      
+      WHEN EXCEPTION IN
+      	IF sOldName<>"" THEN
+      		// Renames the calculation sheet <sOldName> to <sNewName>
+      		:m_pautExcel>>Sheets(sOldName)>>Name=sNewName
+      	ELSE
+      		// The active calculation sheet is renamed <sNewName>
+      		:m_pautExcel>>ActiveSheet>>Name=sNewName
+      	END
+      DO
+      	:ErrorMsg(<§$001f§>,ExceptionInfo())	
+      	RETURN
+      END
+     type : 458752
+   -
+     name : SelectCells
+     procedure_id : 4241254577031024319
+     type_code : 12
+     code : |1-
+      // Summary: Selects a cell or a range of cells
+      // Syntax:
+      // SelectCells (<sCells>)
+      //
+      // Parameters:
+      // 	sCells: Range of cells to select
+      // ex: A1 for a single cell
+      // ex: A1:B2  for a range of cells
+      // e.g. A for a column
+      // ex: A:C for a range of columns
+      // e.g. 2 for a line
+      // ex: 2:5 for a range of rows
+      // Return value:
+      // 	None
+      
+      PROCEDURE SelectCells(sCells)
+      
+      sCell, sRow1, sRow2, sColumn1, sColumn2, sCh are strings
+      i is int
+      
+      sRange  is string = sCells
+      
+      // if A1 is received, it is changed into A1:A1
+      IF Position(sRange,":")=0 THEN
+      	sRange = sRange+":"+sRange
+      END
+      
+      // first cell
+      sCell = ExtractString(sRange,1,":")
+      FOR i=1 _TO_ Length(sCell)
+      	sCh = sCell[[i]] 
+      	IF NumToString(Val(sCh))~=sCh THEN
+      		sRow1 += sCh
+      	ELSE
+      		sColumn1 += sCh
+      	END
+      END
+      
+      // second cell
+      sCell = ExtractString(sRange,2,":")
+      FOR i=1 _TO_ Length(sCell)
+      	sCh = sCell[[i]] 
+      	IF NumToString(Val(sCh))~=sCh THEN
+      		sRow2 += sCh
+      	ELSE         
+      		sColumn2 += sCh
+      	END
+      END
+      
+      // Select the range
+      WHEN EXCEPTION IN
+      	// if it's a range of rows
+      	IF (sColumn1~="" AND sColumn2~="") THEN
+      	    :m_pautExcel>>Rows(sRow1+":"+sRow2)>>Select()
+      		RETURN
+      	END
+      	
+      	// if it's a range of columns
+      	IF (sRow1~="" AND sRow2~="") THEN
+      		:m_pautExcel>>Columns(sColumn1+":"+sColumn2)>>Select()
+      		RETURN
+      	END
+      	
+      	// if it's a range of cells
+      	IF (sRow1<>"" AND sRow2<>"" AND sColumn1<>"" AND sColumn2<>"") THEN
+      		:m_pautExcel>>Range(sColumn1+sRow1+":"+sColumn2+sRow2)>>Select()
+      	ELSE
+      		Info(<§$0020§>)	
+      	END
+      
+      DO
+      	:ErrorMsg(<§$0021§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : SelectWorksheet
+     internal_properties : CAAAAAgAAADrqpyHO/67pK5uPgUA4twVR/Mib02VOnFzpuwEJH956SJ57Nb9hMewUViJtiDKLvVHklo86i2l6BHa9fKhfEmVoWvRG1tvdHu+ScX/o/LnNs2Jn0RTyp/BAXE7GIhrWuPQVKz4TA==
+     procedure_id : 4241254582357987257
+     type_code : 12
+     code : |1+
+      // Summary: Selects an Excel worksheet
+      // Syntax:
+      // SelectWorksheet (<sSheet>)
+      //
+      // Parameters:
+      // 	sWorksheet: Name of the worksheet to select
+      // Return value:
+      // 	None
+      
+      PROCEDURE SelectWorksheet(sSheet)
+      
+      WHEN EXCEPTION IN
+      	//select the requested worksheet
+      	:m_pautExcel>>Sheets(sSheet)>>Select()
+      DO
+      	:ErrorMsg(<§$0022§>,ExceptionInfo())
+      	RETURN
+      END
+     type : 458752
+   -
+     name : sReadValue
+     procedure_id : 4241254582095974349
+     type_code : 12
+     code : |1+
+      // Summary: Returns the content of the cell 
+      // Syntax:
+      // [ <Result> = ] sReadValue (<sCell>)
+      //
+      // Parameters:
+      // 	sCell: Cell whose content must be read
+      // Return value:
+      // 	Undefined type: Content of the cell
+      
+      PROCEDURE sReadValue(sCell)
+      
+      
+      WHEN EXCEPTION IN
+      	RESULT :m_pautExcel>>Range(sCell)>>Value
+      DO
+      	:ErrorMsg(<§$0023§>,ExceptionInfo())
+      	RESULT ""
+      END
+      
+     type : 458752
+   -
+     name : DeleteSheet
+     internal_properties : CAAAAAgAAACratxHK947xO4OHmWAojw1BzPCz421upHzxkykJL/ZCWK5THZ9pIfQUfgplmCKDpVHkspM+v11OOEKRcJRDDnlMftBayv/hAsOOdVP04KXhl0Zj1Rjmm8RUSGLKPj7CvOQlGy4jA==
+     procedure_id : 4241254582679506923
+     type_code : 12
+     code : |1+
+      // Summary: Deletes an Excel worksheet
+      // Syntax:
+      // DeleteSheet ([<sSheetName>])
+      //
+      // Parameters:
+      // 	sWorksheetName: Name of the worksheet to delete (optional-> current worksheet)
+      // Return value:
+      // 	None
+      
+      PROCEDURE DeleteSheet(sSheetName="")
+      
+      // Select the requested worksheet
+      IF sSheetName<>"" THEN
+      	:SelectWorksheet(sSheetName)
+      END
+      
+      WHEN EXCEPTION IN
+      	// Delete the current worksheet from the workbook
+      	:m_pautExcel>>ActiveWindow>>SelectedSheets>>Delete()
+      DO
+      	:ErrorMsg(<§$0024§>,ExceptionInfo())
+      	RETURN
+      END
+      
+     type : 458752
+   -
+     name : SortColumn
+     internal_properties : CAAAAAgAAACzfRMzt05PtIJ+clmMViAJQ3NCi8EdpiG3jugYIMvVFcbRtDLJlJMIrSDNCgyGcqErUiwuwGvnptvES0zfOgOfe00jvbnV3tHAS8PZWThhmF8bOc7ZSBG3C/uxaj7x3M0KHk+glA==
+     procedure_id : 4241254589924251332
+     type_code : 12
+     code : |1+
+      // Summary: Sorts a column
+      // Syntax:
+      // SortColumn ([<sColumn> [, <sOrder>]])
+      //
+      // Parameters:
+      // 	sColumn: Name of the column to sort ex: B
+      // 	sOrder (default value="ASC"): Sort order: ASC or DESC
+      // Return value:
+      // 	None
+      
+      PROCEDURE SortColumn(sColumn="", sOrder="ASC")
+      
+      // select the column
+      IF sColumn<>"" THEN
+      	:SelectCells(sColumn)
+      END
+      
+      // Excel constant for order
+      nOrder is int
+      IF sOrder~="DESC" THEN
+      	nOrder=2
+      ELSE
+      	nOrder=1
+      END
+      
+      // check the selection
+      WHEN EXCEPTION IN
+      	:m_pautExcel>>Selection
+      DO
+      	Info(<§$0014§>)
+      	RETURN
+      END
+      
+      WHEN EXCEPTION IN
+      	// sort
+      	:m_pautExcel>>Selection>>Sort(:m_pautExcel>>Selection, nOrder)
+      DO
+      	:ErrorMsg(<§$0025§>,ExceptionInfo())
+      	RETURN	
+      END
+      
+     type : 458752
+   -
+     name : IsVisible
+     internal_properties : CAAAAAgAAACtjcdnPTSzYeM8O2bAqZND8A+lhe8DAlsiP1yiFk9Tfd8n4Kc6nW4WK2/cIAIEmfxmBSP/DkPh0BG+Rqy+3UzI/B5COM87WPc8cVhMjThpfFAVc7ob6pJtlt5BnsK7AzswTfClEnYHgBQbtcIDbn04Bpd3ultm7jDiAWRlDMvuYwp9rSim4Tv8baGr
+     procedure_id : 4241254590129313536
+     type_code : 12
+     code : |1-
+      // Summary: Defines the visible or invisible status of Excel 
+      // Syntax:
+      //IsVisible ([<bStatus>])
+      //
+      // Parameters:
+      //	bStatus (default value=1): True: it will be visible, False: it will be invisible
+      // Return value:
+      // 	None
+      
+      PROCEDURE IsVisible(bStatus=True)
+      
+      WHEN EXCEPTION IN
+      	IF bStatus THEN
+      		// Excel is visible
+      		:m_pautExcel>>visible=True
+      	ELSE
+      		// Excel is not visible
+      		:m_pautExcel>>visible=False
+      	END
+      DO
+      	:ErrorMsg(<§$0026§>,ExceptionInfo())	
+      	RETURN
+      END
+     type : 458752
+   -
+     name : ErrorMsg
+     procedure_id : 1749265485976300792
+     type_code : 12
+     code : |1+
+      // Summary: Managing the errors
+      // Syntax:
+      // ErrorMsg ([...])
+      //
+      // Parameters:
+      // 	<*>: The error lines
+      // Return value:
+      // 	None
+      
+      PROCEDURE ErrorMsg(*)
+      
+      IF InTestMode() THEN
+      	WL.Error(MyParameters)
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3be2b4383c30ba0a
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : "Excel is not installed on this computer, you cannot use this class!"
+     index : 0
+   -
+     text :
+      en-GB : "To use this class, Excel 97 or later must be installed!"
+     index : 1
+   -
+     text :
+      en-GB : Unable to add a worksheet to the workbook.
+     index : 2
+   -
+     text :
+      en-GB : Unable to add the chart.
+     index : 3
+   -
+     text :
+      en-GB : Select a cell.
+     index : 4
+   -
+     text :
+      en-GB : Unable to apply the alignment.
+     index : 5
+   -
+     text :
+      en-GB : Unable to modify the color.
+     index : 6
+   -
+     text :
+      en-GB : Unable to move the worksheet.
+     index : 7
+   -
+     text :
+      en-GB : Unable to write the value.
+     index : 8
+   -
+     text :
+      en-GB : Validate the current input before saving your workbook.
+     index : 9
+   -
+     text :
+      en-GB : Unable to save the workbook.
+     index : 10
+   -
+     text :
+      en-GB : Save as...
+     index : 11
+   -
+     text :
+      en-GB : Excel document (*.XLS)
+     index : 12
+   -
+     text :
+      en-GB : Unable to close the workbook.
+     index : 13
+   -
+     text :
+      en-GB : Unable to change the format.
+     index : 14
+   -
+     text :
+      en-GB : Unable to merge the cells.
+     index : 15
+   -
+     text :
+      en-GB : Unable to apply the style.
+     index : 16
+   -
+     text :
+      en-GB : Select a row.
+     index : 17
+   -
+     text :
+      en-GB : Unable to modify the height.
+     index : 18
+   -
+     text :
+      en-GB : Unable to print the workbook.
+     index : 19
+   -
+     text :
+      en-GB : Select a column.
+     index : 20
+   -
+     text :
+      en-GB : Unable to insert a column.
+     index : 21
+   -
+     text :
+      en-GB : Unable to insert a row.
+     index : 22
+   -
+     text :
+      en-GB : Unable to modify the width.
+     index : 23
+   -
+     text :
+      en-GB : Unable to hide the column.
+     index : 24
+   -
+     text :
+      en-GB : Unable to hide the row.
+     index : 25
+   -
+     text :
+      en-GB : Unable to add a workbook.
+     index : 26
+   -
+     text :
+      en-GB : Select a document...
+     index : 27
+   -
+     text :
+      en-GB : Unable to open the workbook.
+     index : 28
+   -
+     text :
+      en-GB : Unable to modify the font.
+     index : 29
+   -
+     text :
+      en-GB : Unable to close the application.
+     index : 30
+   -
+     text :
+      en-GB : Unable to rename the sheet.
+     index : 31
+   -
+     text :
+      en-GB : Specified range incorrect.
+     index : 32
+   -
+     text :
+      en-GB : Unable to select the range.
+     index : 33
+   -
+     text :
+      en-GB : Unable to select the worksheet.
+     index : 34
+   -
+     text :
+      en-GB : Unable to read the value.
+     index : 35
+   -
+     text :
+      en-GB : Unable to delete the worksheet.
+     index : 36
+   -
+     text :
+      en-GB : Unable to sort the column.
+     index : 37
+   -
+     text :
+      en-GB : Unable to make the application visible/invisible.
+     index : 38
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

@@ -1,0 +1,115 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Controlling Excel
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Controlling Excel project
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Controlling Excel
+    internal_properties : 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
+    configuration_id : 15502608244474311554
+    type : 1
+    generation_name : WD Controlling Excel.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     autoincrement_version : false
+    icon_filename : .\excel.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4ac381b4023059cc
+  elements :
+   -
+     name : GlobalProcedures
+     identifier : 0x3da5a2a9109c549c
+     internal_properties : CAAAAAgAAADgXtjE41jQi1eecIGZ/UHALF8r4/tfGr4snxP6x3Qg+AQqha3LffYs9CuVYyPdpRvlbQ==
+     physical_name : .\GlobalProcedures.wdg
+     type : 7
+   -
+     name : WIN_ExcelWizard
+     identifier : 0x3da5a2a662aa546d
+     internal_properties : CAAAAAgAAAD8WtTA/6QMHysS5BUdctGomPXnzyjlPQvSvP74xZX/8ccb8CJH+WqgeK8plx/RqR/paQ==
+     physical_name : .\WIN_ExcelWizard.wdw
+     type : 2
+   -
+     name : CExcel
+     identifier : 0x3da5a2aa798e54bb
+     internal_properties : CAAAAAgAAADBvTltWgcvwI6FU+C4HqqNzUow4P7JDk+2pKjUnr3ZxyHz2sisXNcP61JMtHx0DPzETA==
+     physical_name : .\cexcel.wdc
+     type : 4
+   -
+     name : WIN_Excel
+     identifier : 0x40fd539f016e39cb
+     internal_properties : CAAAAAgAAACoppCMO2BIUx9WOMlRuBkARMWTmy4n3KiyUkHK1VuxJ5lpSlgTNa5kPOPd21uVbWOttQ==
+     physical_name : .\WIN_Excel.wdw
+     type : 2
+   -
+     name : TEST_GlobalProcedures
+     identifier : 0x42528550005ddd55
+     internal_properties : CAAAAAgAAACppZH1Mm9HaHZ922gwmTI17Yi0pAuPaU62OT0IrlTGEi7i7zM01E+HEwr0zFSMdGSstA==
+     physical_name : .\TEST_GlobalProcedures.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Controlling Excel.ana\WD Controlling Excel.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     code : |1+
+      
+      
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Controlling Excel
+     identifier : 0x4ac381b402365a87
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
